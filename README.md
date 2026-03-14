@@ -56,21 +56,17 @@ C:\Users\acer\Pictures\Screenshots
 
 Developed by: RegisterNumber:*/
 ~~~ python
-module exp3(a,b,sum,carry);
+module exp3(a,b,sum,carry,difference,borrow));
 input a,b;
-output sum,carry;
+output sum,carry, difference,borrow;
 assign sum= (a ^ b);
 assign carry= ( a & b);
-endmodule
-
-module exp3(a,b,difference,borrow);
-input a,b;
-output difference,borrow;
 assign difference= (a ^ b);
 assign borrow= ( ~a & b);
 endmodule
 ~~~
 **RTL Schematic**
+![WhatsApp Image 2024-11-28 at 11 12 01_93371a87](https://github.com/user-attachments/assets/c482327e-ee0c-487b-a579-85624556c38c)
 
 **Output/TIMING Waveform**
 
