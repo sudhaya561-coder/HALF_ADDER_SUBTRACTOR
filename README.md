@@ -73,3 +73,5 @@ endmodule
 ![WhatsApp Image 2024-11-28 at 11 12 01_93371a87](https://github.com/user-attachments/assets/c482327e-ee0c-487b-a579-85624556c38c)
 
 **Result:**
+
+Thus the Half Adder and Half Subtractor are studied and the truth tables are verified
