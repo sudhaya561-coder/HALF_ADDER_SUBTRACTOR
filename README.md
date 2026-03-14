@@ -35,7 +35,7 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 ![image]
-
+C:\Users\acer\Pictures\Screenshots
 
 **Procedure**
 
