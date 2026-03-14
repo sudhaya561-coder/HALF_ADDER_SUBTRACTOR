@@ -66,9 +66,10 @@ assign borrow= ( ~a & b);
 endmodule
 ~~~
 **RTL Schematic**
-![WhatsApp Image 2024-11-28 at 11 12 01_93371a87](https://github.com/user-attachments/assets/c482327e-ee0c-487b-a579-85624556c38c)
+![WhatsApp Image 2024-11-28 at 11 12 02_9074dafb](https://github.com/user-attachments/assets/229147d3-fd50-4683-8aac-521639aec6d0)
+
 
 **Output/TIMING Waveform**
-![WhatsApp Image 2024-11-28 at 11 12 02_9074dafb](https://github.com/user-attachments/assets/229147d3-fd50-4683-8aac-521639aec6d0)
+![WhatsApp Image 2024-11-28 at 11 12 01_93371a87](https://github.com/user-attachments/assets/c482327e-ee0c-487b-a579-85624556c38c)
 
 **Result:**
